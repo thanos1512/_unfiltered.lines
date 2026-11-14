@@ -207,29 +207,31 @@
       "media_id": null,
       "posted_at": null,
       "note": null,
-      "video": "queue/d06-C.mp4"
+      "video": "queue/v2/d06-C.mp4"
     },
     {
       "id": "d07-A",
       "post_at": "2026-11-15T12:47:00+05:00",
-      "type": "image",
+      "type": "reel",
       "image": "queue/d07-A.jpg",
       "caption": "Rest. Then keep going. 🔥\n\nTag someone who needs this today.\n\nNever give up quotes for tired days.\n\n#motivation #keepgoing #neverquit #quotes #unfilteredlines",
       "status": "pending",
       "media_id": null,
       "posted_at": null,
-      "note": null
+      "note": null,
+      "video": "queue/v2/d07-A.mp4"
     },
     {
       "id": "d07-B",
       "post_at": "2026-11-15T17:47:00+05:00",
-      "type": "image",
+      "type": "reel",
       "image": "queue/d07-B.jpg",
       "caption": "Woke up confused about what year it is. 😂\n\nTag your nap partner.\n\nFunny quotes about naps and life choices.\n\n#relatable #naps #funnyquotes #quotes #unfilteredlines",
       "status": "pending",
       "media_id": null,
       "posted_at": null,
-      "note": null
+      "note": null,
+      "video": "queue/v2/d07-B.mp4"
     },
     {
       "id": "d07-C",
@@ -241,29 +243,31 @@
       "media_id": null,
       "posted_at": null,
       "note": null,
-      "video": "queue/d07-C.mp4"
+      "video": "queue/v2/d07-C.mp4"
     },
     {
       "id": "d08-A",
       "post_at": "2026-11-16T12:47:00+05:00",
-      "type": "image",
+      "type": "reel",
       "image": "queue/d08-A.jpg",
       "caption": "Finish what you started. 🌅\n\nFollow @_unfiltered.lines for daily motivation.\n\nSuccess quotes about finishing what you start.\n\n#motivation #success #mindset #quotes #unfilteredlines",
       "status": "pending",
       "media_id": null,
       "posted_at": null,
-      "note": null
+      "note": null,
+      "video": "queue/v2/d08-A.mp4"
     },
     {
       "id": "d08-B",
       "post_at": "2026-11-16T17:47:00+05:00",
-      "type": "image",
+      "type": "reel",
       "image": "queue/d08-B.jpg",
       "caption": "Morning me ruins all of night me’s plans. 😂\n\nComment “guilty” if this is you.\n\nFunny morning struggle quotes.\n\n#relatable #morningstruggle #funnyquotes #quotes #unfilteredlines",
       "status": "pending",
       "media_id": null,
       "posted_at": null,
-      "note": null
+      "note": null,
+      "video": "queue/v2/d08-B.mp4"
     },
     {
       "id": "d08-C",
@@ -275,29 +279,31 @@
       "media_id": null,
       "posted_at": null,
       "note": null,
-      "video": "queue/d08-C.mp4"
+      "video": "queue/v2/d08-C.mp4"
     },
     {
       "id": "d09-A",
       "post_at": "2026-11-17T12:47:00+05:00",
-      "type": "image",
+      "type": "reel",
       "image": "queue/d09-A.jpg",
       "caption": "You’re the safest bet you’ll ever make. 🔥\n\nSave this for the days you doubt yourself.\n\nSelf-belief quotes for the days you doubt yourself.\n\n#selfbelief #motivation #mindset #quotes #unfilteredlines",
       "status": "pending",
       "media_id": null,
       "posted_at": null,
-      "note": null
+      "note": null,
+      "video": "queue/v2/d09-A.mp4"
     },
     {
       "id": "d09-B",
       "post_at": "2026-11-17T17:47:00+05:00",
-      "type": "image",
+      "type": "reel",
       "image": "queue/d09-B.jpg",
       "caption": "Just one more reel… 😂\n\nTag someone who’s still scrolling.\n\nFunny quotes about phone addiction and endless scrolling.\n\n#relatable #scrolling #funnyquotes #quotes #unfilteredlines",
       "status": "pending",
       "media_id": null,
       "posted_at": null,
-      "note": null
+      "note": null,
+      "video": "queue/v2/d09-B.mp4"
     },
     {
       "id": "d09-C",
@@ -309,29 +315,31 @@
       "media_id": null,
       "posted_at": null,
       "note": null,
-      "video": "queue/d09-C.mp4"
+      "video": "queue/v2/d09-C.mp4"
     },
     {
       "id": "d10-A",
       "post_at": "2026-11-18T12:47:00+05:00",
-      "type": "image",
+      "type": "reel",
       "image": "queue/d10-A.jpg",
       "caption": "Today works too. ✨\n\nComment “day one” if you’re starting over.\n\nNew beginning quotes about starting over.\n\n#newbeginnings #motivation #selfgrowth #quotes #unfilteredlines",
       "status": "pending",
       "media_id": null,
       "posted_at": null,
-      "note": null
+      "note": null,
+      "video": "queue/v2/d10-A.mp4"
     },
     {
       "id": "d10-B",
       "post_at": "2026-11-18T17:47:00+05:00",
-      "type": "image",
+      "type": "reel",
       "image": "queue/d10-B.jpg",
       "caption": "The hardest question in the world. 😂\n\nTag the friend who always says “anything is fine.”\n\nFunny quotes about adult life and food decisions.\n\n#foodie #relatable #funnyquotes #quotes #unfilteredlines",
       "status": "pending",
       "media_id": null,
       "posted_at": null,
-      "note": null
+      "note": null,
+      "video": "queue/v2/d10-B.mp4"
     },
     {
       "id": "d10-C",
@@ -343,7 +351,7 @@
       "media_id": null,
       "posted_at": null,
       "note": null,
-      "video": "queue/d10-C.mp4"
+      "video": "queue/v2/d10-C.mp4"
     }
   ]
 }
